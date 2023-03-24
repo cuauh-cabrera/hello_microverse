@@ -136,7 +136,7 @@ You can deploy this project using:
 
 - GitHub: [@cuauh-cabrera](https://github.com/cuauh-cabrera)
 - Twitter: [@cuau.cabrera](https://twitter.com/cuau.cabrera)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/cuaucabrera)
+- LinkedIn: [cuaucabrera](https://linkedin.com/in/cuaucabrera)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
