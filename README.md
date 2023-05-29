@@ -44,8 +44,8 @@
 - HTML
 - CSS
 - Git
-- Node.js
-- Linters
+
+
 
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -57,7 +57,6 @@
     <li><a href="https://developer.mozilla.org/es/docs/Web/HTML/">HTML</a></li>
     <li><a href="https://developer.mozilla.org/es/docs/Web/CSS/">CSS</a></li>
     <li><a href="https://git-scm.com/">GIT</a></li>
-    <li><a href="https://nodejs.org/es/">Node.js</a></li>
   </ul>
 </details>
 
@@ -84,7 +83,7 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Any micronaut interested in a professional README.md template!
+
 
 To get a local copy up and running, follow these steps.
 
